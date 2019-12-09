@@ -13,16 +13,16 @@
     <AssemblyOriginatorKeyFile>RazorEngine.snk</AssemblyOriginatorKeyFile>
     <SignAssembly>true</SignAssembly>
     <RootNamespace>RazorEngine</RootNamespace>
-    <PackageId>RazorEngine.NetCore</PackageId>
+    <PackageId>RazorEngine.NetCore-LinuxDockerFix</PackageId>
     <AssemblyName>RazorEngine.NetCore</AssemblyName>
     <PackageTags>RazorEngine;aspnetcore;NetCore</PackageTags>
-    <Authors>Connie Yau, HermanHo, Fouad Messaia</Authors>
-    <Description>Fork from https://github.com/hermanho/RazorEngine</Description>
+    <Authors>Connie Yau, HermanHo, Fouad Messaia, Mike Goodfellow</Authors>
+    <Description>Fork from https://github.com/fouadmess/RazorEngine</Description>
     <RepositoryType>git</RepositoryType>
-    <RepositoryUrl>https://github.com/fouadmess/RazorEngine</RepositoryUrl>
-    <PackageProjectUrl>https://github.com/fouadmess/RazorEngine</PackageProjectUrl>
-    <Version>2.2.4</Version>
-    <Copyright>RazorEngine Copyright © RazorEngine Project 2011-2018</Copyright>
+    <RepositoryUrl>https://github.com/mgoodfellow/RazorEngine</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/mgoodfellow/RazorEngine</PackageProjectUrl>
+    <Version>2.2.5</Version>
+    <Copyright>RazorEngine Copyright © RazorEngine Project 2011-2019</Copyright>
     <Company>RazorEngine</Company>
     <Product>RazorEngine</Product>
     <IncludeSymbols>True</IncludeSymbols>
